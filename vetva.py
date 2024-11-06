@@ -8,7 +8,7 @@ def vetva(t,pocet):
     t.right(60)
     vetva(t, pocet-1)
     if pocet == 1:
-        t.dot(20, 'red')
+        t.dot(20, 'blue')
     else:
         t.dot(30,'green')
     t.left(30)
