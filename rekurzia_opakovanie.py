@@ -7,7 +7,7 @@ def main():
 
     t.left(90)
     t.pencolor('brown')
-    vetva.vetva(t,4)
+    vetva.vetva(t,5)
 
     turtle.exitonclick()
 
